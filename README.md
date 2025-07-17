@@ -1,5 +1,3 @@
-# S.A.C
-proyecto S.A.C en el cual es un proyecto de actualizacion y automatizacion en los tramites de medidas de frontera
 # 🇨🇱 Sistema Aduanero de Chile (SAC)
 
 Sistema web diseñado para modernizar y digitalizar los procesos aduaneros en Chile, permitiendo la validación documental, monitoreo de mercancías, pre-registro vehicular y auditorías internas, con acceso personalizado según rol de usuario.
